@@ -69,8 +69,8 @@ const App = () => {
   const navLinks = [
     { path: "/", label: "Home" },
     { path: "/about", label: "About" },
-    { path: "/destination-more", label: "Destination" },
-    { path: "/service-more", label: "Our Service" },
+    { path: "/destination-more", label: "Destinations" },
+    { path: "/service-more", label: "Our Services" },
     { path: "/contact", label: "Contact Us" },
    
   ];

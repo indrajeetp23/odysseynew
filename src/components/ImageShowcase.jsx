@@ -15,7 +15,7 @@ const ImageShowcase = () => {
 
       {/* CONTENT */}
       <h2 >
-        What offer the Best, so you can <br />
+        WE offer the BEST, so you can <br />
         create memory that last
       </h2>
 <div className="image-row">

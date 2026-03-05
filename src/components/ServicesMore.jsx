@@ -49,7 +49,7 @@ const ServicesMore = () => {
         />
         <div className="services-hero-overlay">
           <h1>Our Services</h1>
-          <p>Odyssey Heritage</p>
+          {/* <p>Odyssey Heritage</p> */}
         </div>
       </section>
 
@@ -101,7 +101,7 @@ const ServicesMore = () => {
       marginBottom: "30px",
     }}
   >
-    Looking to see you soon!
+    Looking forward to seeing you soon!
   </p>
   {/* <button
     style={{

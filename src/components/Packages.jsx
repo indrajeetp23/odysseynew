@@ -4,11 +4,11 @@ import "./Packages.css";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay, Pagination } from "swiper/modules"
 const services = [
-  { title: "Customized luxury safaris", img: "https://images.unsplash.com/photo-1501785888041-af3ef285b470" },
-  { title: "Private tours & experiences", img: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee" },
-  { title: "Honeymoon getaways", img: "https://images.unsplash.com/photo-1493558103817-58b2924bce98" },
-  { title: "Local food & cultural tours", img: "https://images.unsplash.com/photo-1504674900247-0877df9cc836" },
-  { title: "Budget friendly holidays", img: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e" }
+  { title: "Fully tailored itinerary planning", img: "/images/image 73.jpg" },
+  { title: "Flexible accommodation options", img: "/images/image 1.jpg" },
+  { title: "Themed or interest-based travel programs", img: "/images/image 74.jpg" },
+  { title: "Private transfers and guided experiences", img: "/images/image 75.jpg" },
+  { title: " Event-based or occasion travel planning", img: "/images/image 2.jpg" }
 ];
 const services1 = [
   { title: "Customized luxury safaris", img: "https://images.unsplash.com/photo-1501785888041-af3ef285b470" },

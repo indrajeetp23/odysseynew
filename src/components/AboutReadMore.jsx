@@ -126,7 +126,7 @@ const AboutReadMore = () => {
     fontWeight: "600",
   }}
 >
-  What we are Creating
+  What we are creating
 </h1>
 
   {/* IMAGES ROW */}
@@ -346,7 +346,7 @@ Crafting in a way that revisiting every memory feels like relived
       opacity: "0.9",
     }}
   >
-    At Odyssey, every itinerary is designed with flow — from the moment a
+    At Odyssey, every itinerary is designed with flow , from the moment a
     traveller steps out, to the moment they return with stories worth keeping.
     We think beyond destinations. We think about moments, about comfort, about
     peace of mind.
@@ -418,7 +418,7 @@ Crafting in a way that revisiting every memory feels like relived
           color: "#2f3a3f",
         }}
       >
-        Yes! we are pinning location for you with our network
+        Yes! We are pinning location for you with our network
       </p>
 
       <p
@@ -475,7 +475,7 @@ Crafting in a way that revisiting every memory feels like relived
       
     }}
   >
-    We are excited to see you to
+    We are excited to see you 
     <br />
 be a part of our memory
   </h4>
